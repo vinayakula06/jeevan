@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 Jeevan AI Postal Service provides:
 
@@ -16,7 +16,7 @@ Jeevan AI Postal Service provides:
 The model used for detecting delivery stages and predicting next stops is **trained**, and real delivery data is utilized as part of the system’s logic.
 
 ---
-## 🏆 Achievements
+##  Achievements
 
 - Selected for the **Final Round of Smart India Hackathon (SIH)** with the project.
 - Secured a **Top 5 position** at the national-level SIH evaluation.
